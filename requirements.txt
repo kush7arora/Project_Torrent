@@ -1,0 +1,22 @@
+# Core torrent library
+python-libtorrent==2.0.10
+
+# Web framework and API
+Flask==3.0.3
+flask-cors==5.0.0
+flask-socketio==5.3.7
+
+# WebSocket support
+python-socketio[client]==5.11.4
+websocket-client==1.8.0
+eventlet==0.36.1
+
+# HTTP client for testing
+requests==2.32.3
+
+# For future ML integration (optional - your teammate will use these)
+# numpy==2.0.2
+# scikit-learn==1.5.2
+# xgboost==2.1.2
+# yara-python==4.5.1
+# pefile==2024.8.26
